@@ -28,14 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
   </div>
   
- 
-  
 
-<a href="http://www.github.com/sbhaya"><img src="https://github-readme-stats.vercel.app/api?username=sbhaya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Sabhya's GitHub stats" /></a>
-
-<a href="http://www.github.com/sbhaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sbhaya&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sbhaya"><img src="https://activity-graph.herokuapp.com/graph?username=sbhaya&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 

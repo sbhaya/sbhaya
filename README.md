@@ -20,12 +20,12 @@
 <h2>📈 Sabhya's Github Stats</h2>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="theriyasharma24" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriyasharma24&show_icons=true&theme=dark&locale=en&layout=compact" alt="theriyasharma24" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sbhaya&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="sbhaya" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbhaya&show_icons=true&theme=dark&locale=en&layout=compact" alt="sbhaya" /></td>
   </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbhaya&theme=dark" alt="sbhaya" /></p>
   </div>
   
 

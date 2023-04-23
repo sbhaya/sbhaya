@@ -3,7 +3,6 @@
 <h2>🤓 About Me</h2>
 
 - I am a tech and design enthusiast.
-- I am currently working as the Engineering Lead at Amygo Retail Pvt. Ltd.
 - I have a keen interest in learning UI/UX Design and Development, Team and Product Management. 
 - I am also an artist and work in water, ink and acrylic colors.
 - Nowadays, I am mentoring the women of my alma mater - IPCW in mern stack app development.

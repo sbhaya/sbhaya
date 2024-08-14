@@ -5,7 +5,7 @@
 - I am a tech and design enthusiast.
 - I have a keen interest in learning UI/UX Design and Development, Team and Product Management. 
 - I am also an artist and work in water, ink and acrylic colors.
-- Nowadays, I am mentoring the women of my alma mater - IPCW in mern stack app development.
+- Nowadays, I am a Teach for India Fellow.
 - Here are some of my [Technical Blog](https://medium.com/@sabhya12.saini) posts.📜
 
 <h2>🛠 Tech Stack</h2>
